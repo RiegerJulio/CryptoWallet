@@ -1,4 +1,4 @@
-# Welcome to my Clone Tunes Repository.
+# Welcome to my Crypto Wallet Repository.
 
 ## Demo
 
