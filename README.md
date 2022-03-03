@@ -3,7 +3,7 @@
 ## Demo
 
 <p align="center">
-          <img align="center" src="">
+          <img align="center" src="https://github.com/RiegerJulio/CryptoWallet/blob/master/src/cryptowallet_demo.gif">
 </p>
 
 ## About
